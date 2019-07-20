@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl:
 url: "https://ybigta-design.github.io"
-title: Type on Strap # site's title
+title: Design Team Study Note # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 defaults:
@@ -19,7 +19,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: YBIGTA Design Team Study Note
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
