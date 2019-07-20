@@ -2,7 +2,7 @@
 layout: post
 title: 유건욱 잘생김
 tags: [A Tag, Test, Lorem, Ipsum]
-author-id: mhagnumdw
+author-id: JoonSeong Park
 excerpt_separator: <!--more-->
 ---
 
